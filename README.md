@@ -2,7 +2,10 @@
 This is a prototype of a horror game. While it may not feature extravagant elements, it was developed within a tight seven-day deadline as a school assignment.
 Though it's possible that some minor bugs might have slipped through the cracks during development, I've diligently addressed and resolved any issues I've come across.
 
-I thoroughly enjoyed the process of creating this prototype, and I'm confident that it has successfully achieved its intended purpose.
+I thoroughly enjoyed the process of creating this prototype, and I'm confident that it has successfully achieved its intended purpose.  
+
+🔗 Play (Windows Build):
+https://cocacopa.itch.io/escape-the-mansion
 
 # Development Resources for the Project
 The assets I used can be found on the Unity Asset Store:  
